@@ -5,9 +5,10 @@ body{
     min-height: 100vh;
     overflow-x: hidden;
     box-sizing: border-box;
-    background-image: url(./image/background3.png);
+    backgroud-color : lightblue;
+/*     background-image: url(./image/background3.png);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover; */
 }
 h3,h2,h5{
     display: block;
